@@ -1,9 +1,8 @@
-// imports
+
 @use 'header';
 @use 'barraTopicsVideo';
 @use 'mainVideo';
 
-// variables
 $color-fondo: #0f0f0f;
 $color-boton: #222222;
 $color-boton-hover: #3f3f3f;
@@ -15,7 +14,6 @@ $color-letra3: #AAAAAA;
 $tipografia1:  "Roboto", "Arial", sans-serif;
 
 
-// cuerpo 
 
 body{
     width: 100vw;
